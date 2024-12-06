@@ -4,8 +4,7 @@
 
 This is a basic profile card created using HTML, CSS, and JavaScript. 
 
-**To view the live demo:**
-https://venkat-0706.github.io/Profile-Card/
+**To view the live demo:** [Here](https://venkat-0706.github.io/Profile-Card/)
 
 **To run the project locally:**
 
